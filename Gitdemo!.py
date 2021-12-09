@@ -6,6 +6,5 @@ Hi Ronald
 How are you?
 
 Hi Anwar, I'm doing great!
-What about you?
+What about you? check
 
-I'm doing fine!
