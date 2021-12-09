@@ -10,4 +10,4 @@ What about you? check
 
 Doing fine!
 
-Do you have a previous experience with Python?
+Do you have previous experience with Python?
