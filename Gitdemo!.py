@@ -1,11 +1,1 @@
-Hello
-Hi Anwar
-
-
-Hi Ronald
-How are you?
-
-Hi Anwar, I'm doing great!
-What about you? check
-
-Doing fine!
+print ('let's do some Phyton')
