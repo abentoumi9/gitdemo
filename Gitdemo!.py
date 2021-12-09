@@ -5,4 +5,5 @@ Hi Anwar
 Hi Ronald
 How are you?
 
-I'm doing fine
+Hi Anwar, I'm doing great!
+What about you?
